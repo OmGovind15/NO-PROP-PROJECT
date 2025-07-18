@@ -1,0 +1,2006 @@
+Dataset already downloaded.
+Dataset already extracted.
+Files already downloaded and verified
+Files already downloaded and verified
+After model and dataloader init:
+GPU Memory: 14.38 MB
+Epoch 1/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.5319
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.2991
+→ Max Entropy: 2.2531
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6468
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9936
+→ Max Entropy: 2.2580
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.5929
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.1178
+→ Max Entropy: 2.2839
+Train Loss: 329.4033 | Test Acc: 0.3911 | CIFAR-10-C Acc: 0.2634 | Imagenette Acc: 0.0736
+Time Taken: 9.40s
+Memory Used: 55.34 MB
+Peak GPU Memory: 123.90 MB
+Epoch 2/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.7036
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8336
+→ Max Entropy: 2.2564
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7092
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.7935
+→ Max Entropy: 2.2629
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.7276
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.7451
+→ Max Entropy: 2.2315
+Train Loss: 224.4888 | Test Acc: 0.2967 | CIFAR-10-C Acc: 0.2277 | Imagenette Acc: 0.0828
+Time Taken: 9.24s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 3/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.5268
+→ Max Confidence: 0.9975
+→ Mean Entropy: 1.3166
+→ Max Entropy: 2.2441
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6641
+→ Max Confidence: 0.9999
+→ Mean Entropy: 0.9785
+→ Max Entropy: 2.2532
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.6446
+→ Max Confidence: 0.9998
+→ Mean Entropy: 0.9933
+→ Max Entropy: 2.2232
+Train Loss: 192.4410 | Test Acc: 0.5467 | CIFAR-10-C Acc: 0.3348 | Imagenette Acc: 0.0795
+Time Taken: 9.23s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 4/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.5534
+→ Max Confidence: 0.9987
+→ Mean Entropy: 1.2695
+→ Max Entropy: 2.2407
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6334
+→ Max Confidence: 0.9998
+→ Mean Entropy: 1.0718
+→ Max Entropy: 2.2590
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.6737
+→ Max Confidence: 0.9996
+→ Mean Entropy: 0.9298
+→ Max Entropy: 2.2411
+Train Loss: 167.0089 | Test Acc: 0.6105 | CIFAR-10-C Acc: 0.2998 | Imagenette Acc: 0.0718
+Time Taken: 9.25s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 5/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.5619
+→ Max Confidence: 0.9992
+→ Mean Entropy: 1.2373
+→ Max Entropy: 2.2357
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6454
+→ Max Confidence: 0.9999
+→ Mean Entropy: 1.0329
+→ Max Entropy: 2.2294
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.7067
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8415
+→ Max Entropy: 2.2050
+Train Loss: 151.9750 | Test Acc: 0.7005 | CIFAR-10-C Acc: 0.3277 | Imagenette Acc: 0.0680
+Time Taken: 9.25s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 6/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.5557
+→ Max Confidence: 0.9984
+→ Mean Entropy: 1.2547
+→ Max Entropy: 2.2045
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6778
+→ Max Confidence: 0.9999
+→ Mean Entropy: 0.9561
+→ Max Entropy: 2.2185
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.7299
+→ Max Confidence: 0.9999
+→ Mean Entropy: 0.7807
+→ Max Entropy: 2.1557
+Train Loss: 142.9273 | Test Acc: 0.7242 | CIFAR-10-C Acc: 0.3053 | Imagenette Acc: 0.0813
+Time Taken: 9.30s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 7/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.5849
+→ Max Confidence: 0.9990
+→ Mean Entropy: 1.1869
+→ Max Entropy: 2.2513
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6561
+→ Max Confidence: 0.9999
+→ Mean Entropy: 1.0040
+→ Max Entropy: 2.2369
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.7469
+→ Max Confidence: 0.9999
+→ Mean Entropy: 0.7349
+→ Max Entropy: 2.2024
+Train Loss: 137.3191 | Test Acc: 0.7437 | CIFAR-10-C Acc: 0.3617 | Imagenette Acc: 0.0660
+Time Taken: 9.30s
+Memory Used: -0.51 MB
+Peak GPU Memory: 123.90 MB
+Epoch 8/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.5831
+→ Max Confidence: 0.9990
+→ Mean Entropy: 1.1800
+→ Max Entropy: 2.2395
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7094
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8463
+→ Max Entropy: 2.1712
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.7503
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.7221
+→ Max Entropy: 2.1350
+Train Loss: 134.4022 | Test Acc: 0.7525 | CIFAR-10-C Acc: 0.3425 | Imagenette Acc: 0.0568
+Time Taken: 9.16s
+Memory Used: 0.51 MB
+Peak GPU Memory: 123.90 MB
+Epoch 9/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.5975
+→ Max Confidence: 0.9994
+→ Mean Entropy: 1.1365
+→ Max Entropy: 2.1785
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6717
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9551
+→ Max Entropy: 2.2570
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.7665
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.6786
+→ Max Entropy: 2.1862
+Train Loss: 133.2620 | Test Acc: 0.7600 | CIFAR-10-C Acc: 0.3852 | Imagenette Acc: 0.0655
+Time Taken: 9.26s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 10/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.5792
+→ Max Confidence: 0.9997
+→ Mean Entropy: 1.1858
+→ Max Entropy: 2.1705
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6196
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.1154
+→ Max Entropy: 2.2113
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.7578
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.7026
+→ Max Entropy: 2.1280
+Train Loss: 131.7667 | Test Acc: 0.7747 | CIFAR-10-C Acc: 0.4002 | Imagenette Acc: 0.0703
+Time Taken: 9.22s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 11/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.5974
+→ Max Confidence: 0.9999
+→ Mean Entropy: 1.1485
+→ Max Entropy: 2.1867
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7446
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.7661
+→ Max Entropy: 2.1730
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.7768
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.6495
+→ Max Entropy: 2.1467
+Train Loss: 131.2448 | Test Acc: 0.7660 | CIFAR-10-C Acc: 0.3025 | Imagenette Acc: 0.0647
+Time Taken: 9.22s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 12/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.5945
+→ Max Confidence: 0.9995
+→ Mean Entropy: 1.1435
+→ Max Entropy: 2.1747
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6426
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0122
+→ Max Entropy: 2.1979
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.7734
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.6610
+→ Max Entropy: 2.1890
+Train Loss: 130.9506 | Test Acc: 0.7819 | CIFAR-10-C Acc: 0.4353 | Imagenette Acc: 0.0696
+Time Taken: 9.27s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 13/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.5968
+→ Max Confidence: 0.9996
+→ Mean Entropy: 1.1424
+→ Max Entropy: 2.2051
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6603
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9954
+→ Max Entropy: 2.1801
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.7752
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.6512
+→ Max Entropy: 2.1322
+Train Loss: 130.9913 | Test Acc: 0.7889 | CIFAR-10-C Acc: 0.3423 | Imagenette Acc: 0.0596
+Time Taken: 9.32s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 14/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.5920
+→ Max Confidence: 0.9995
+→ Mean Entropy: 1.1432
+→ Max Entropy: 2.1855
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6574
+→ Max Confidence: 0.9999
+→ Mean Entropy: 0.9752
+→ Max Entropy: 2.1095
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.7899
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.6071
+→ Max Entropy: 2.1386
+Train Loss: 130.9426 | Test Acc: 0.7809 | CIFAR-10-C Acc: 0.3045 | Imagenette Acc: 0.0741
+Time Taken: 9.27s
+Memory Used: -0.51 MB
+Peak GPU Memory: 123.90 MB
+Epoch 15/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6042
+→ Max Confidence: 0.9998
+→ Mean Entropy: 1.1112
+→ Max Entropy: 2.2244
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6232
+→ Max Confidence: 0.9998
+→ Mean Entropy: 1.0790
+→ Max Entropy: 2.2111
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.7878
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.6135
+→ Max Entropy: 2.1664
+Train Loss: 130.3378 | Test Acc: 0.7941 | CIFAR-10-C Acc: 0.4148 | Imagenette Acc: 0.0780
+Time Taken: 9.31s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 16/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.5852
+→ Max Confidence: 0.9997
+→ Mean Entropy: 1.1569
+→ Max Entropy: 2.2099
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6628
+→ Max Confidence: 0.9999
+→ Mean Entropy: 0.9575
+→ Max Entropy: 2.1783
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.7849
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.6228
+→ Max Entropy: 2.1110
+Train Loss: 130.4577 | Test Acc: 0.7855 | CIFAR-10-C Acc: 0.3047 | Imagenette Acc: 0.0675
+Time Taken: 9.34s
+Memory Used: 0.51 MB
+Peak GPU Memory: 123.90 MB
+Epoch 17/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6242
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0655
+→ Max Entropy: 2.1761
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7420
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.7698
+→ Max Entropy: 2.1434
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8107
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.5519
+→ Max Entropy: 2.2337
+Train Loss: 130.5460 | Test Acc: 0.7892 | CIFAR-10-C Acc: 0.3362 | Imagenette Acc: 0.0601
+Time Taken: 9.25s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 18/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6110
+→ Max Confidence: 0.9999
+→ Mean Entropy: 1.0990
+→ Max Entropy: 2.1676
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6470
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0243
+→ Max Entropy: 2.1738
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.7988
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.5880
+→ Max Entropy: 2.0972
+Train Loss: 130.2782 | Test Acc: 0.8081 | CIFAR-10-C Acc: 0.3320 | Imagenette Acc: 0.0639
+Time Taken: 9.26s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 19/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6425
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0095
+→ Max Entropy: 2.1474
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6676
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9513
+→ Max Entropy: 2.1728
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8053
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.5647
+→ Max Entropy: 2.1899
+Train Loss: 130.3583 | Test Acc: 0.8027 | CIFAR-10-C Acc: 0.3835 | Imagenette Acc: 0.0606
+Time Taken: 9.21s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 20/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6175
+→ Max Confidence: 0.9997
+→ Mean Entropy: 1.0795
+→ Max Entropy: 2.2284
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6958
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8791
+→ Max Entropy: 2.1469
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8060
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.5630
+→ Max Entropy: 2.1139
+Train Loss: 130.3725 | Test Acc: 0.8009 | CIFAR-10-C Acc: 0.3436 | Imagenette Acc: 0.0606
+Time Taken: 9.29s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 21/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6261
+→ Max Confidence: 0.9998
+→ Mean Entropy: 1.0573
+→ Max Entropy: 2.1941
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6711
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9491
+→ Max Entropy: 2.1949
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8105
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.5521
+→ Max Entropy: 2.1310
+Train Loss: 130.1216 | Test Acc: 0.8040 | CIFAR-10-C Acc: 0.3898 | Imagenette Acc: 0.0685
+Time Taken: 9.21s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 22/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6232
+→ Max Confidence: 0.9999
+→ Mean Entropy: 1.0588
+→ Max Entropy: 2.1338
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6588
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9807
+→ Max Entropy: 2.1999
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8172
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.5313
+→ Max Entropy: 2.0896
+Train Loss: 129.9841 | Test Acc: 0.8160 | CIFAR-10-C Acc: 0.3831 | Imagenette Acc: 0.0652
+Time Taken: 9.21s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 23/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6142
+→ Max Confidence: 0.9999
+→ Mean Entropy: 1.0789
+→ Max Entropy: 2.1564
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6375
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0324
+→ Max Entropy: 2.1372
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8078
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.5561
+→ Max Entropy: 2.1062
+Train Loss: 129.8674 | Test Acc: 0.8097 | CIFAR-10-C Acc: 0.3764 | Imagenette Acc: 0.0739
+Time Taken: 9.27s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 24/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6307
+→ Max Confidence: 0.9999
+→ Mean Entropy: 1.0505
+→ Max Entropy: 2.1767
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6591
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9777
+→ Max Entropy: 2.1778
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8131
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.5452
+→ Max Entropy: 2.1277
+Train Loss: 129.9382 | Test Acc: 0.8118 | CIFAR-10-C Acc: 0.3996 | Imagenette Acc: 0.0673
+Time Taken: 9.22s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 25/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6270
+→ Max Confidence: 0.9999
+→ Mean Entropy: 1.0454
+→ Max Entropy: 2.1853
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6613
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9922
+→ Max Entropy: 2.2150
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8160
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.5295
+→ Max Entropy: 2.1432
+Train Loss: 129.9745 | Test Acc: 0.8166 | CIFAR-10-C Acc: 0.4096 | Imagenette Acc: 0.0573
+Time Taken: 9.21s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 26/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6295
+→ Max Confidence: 0.9999
+→ Mean Entropy: 1.0404
+→ Max Entropy: 2.1811
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6402
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0372
+→ Max Entropy: 2.1803
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8181
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.5289
+→ Max Entropy: 2.1888
+Train Loss: 129.9378 | Test Acc: 0.8197 | CIFAR-10-C Acc: 0.4226 | Imagenette Acc: 0.0532
+Time Taken: 9.23s
+Memory Used: -0.51 MB
+Peak GPU Memory: 123.90 MB
+Epoch 27/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6223
+→ Max Confidence: 0.9998
+→ Mean Entropy: 1.0719
+→ Max Entropy: 2.1888
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7020
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8886
+→ Max Entropy: 2.2239
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8205
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.5262
+→ Max Entropy: 2.0796
+Train Loss: 129.8925 | Test Acc: 0.8182 | CIFAR-10-C Acc: 0.3446 | Imagenette Acc: 0.0532
+Time Taken: 9.22s
+Memory Used: 0.51 MB
+Peak GPU Memory: 123.90 MB
+Epoch 28/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6378
+→ Max Confidence: 0.9998
+→ Mean Entropy: 1.0161
+→ Max Entropy: 2.1854
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7030
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8589
+→ Max Entropy: 2.2328
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8271
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.5019
+→ Max Entropy: 2.0864
+Train Loss: 129.6480 | Test Acc: 0.8201 | CIFAR-10-C Acc: 0.3467 | Imagenette Acc: 0.0482
+Time Taken: 9.22s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 29/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6286
+→ Max Confidence: 0.9998
+→ Mean Entropy: 1.0440
+→ Max Entropy: 2.1494
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6663
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9226
+→ Max Entropy: 2.1346
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8236
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.5127
+→ Max Entropy: 2.1720
+Train Loss: 129.6031 | Test Acc: 0.8189 | CIFAR-10-C Acc: 0.3503 | Imagenette Acc: 0.0591
+Time Taken: 9.26s
+Memory Used: -0.51 MB
+Peak GPU Memory: 123.90 MB
+Epoch 30/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6366
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0171
+→ Max Entropy: 2.1868
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6213
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0553
+→ Max Entropy: 2.1704
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8261
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.5045
+→ Max Entropy: 2.1405
+Train Loss: 129.7653 | Test Acc: 0.8319 | CIFAR-10-C Acc: 0.4501 | Imagenette Acc: 0.0561
+Time Taken: 9.23s
+Memory Used: 0.51 MB
+Peak GPU Memory: 123.90 MB
+Epoch 31/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6229
+→ Max Confidence: 0.9999
+→ Mean Entropy: 1.0500
+→ Max Entropy: 2.2013
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6369
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0338
+→ Max Entropy: 2.1774
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8297
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4913
+→ Max Entropy: 2.1261
+Train Loss: 129.7216 | Test Acc: 0.8264 | CIFAR-10-C Acc: 0.4192 | Imagenette Acc: 0.0734
+Time Taken: 9.27s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 32/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6182
+→ Max Confidence: 0.9999
+→ Mean Entropy: 1.0608
+→ Max Entropy: 2.1556
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6425
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0009
+→ Max Entropy: 2.1607
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8235
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.5054
+→ Max Entropy: 2.0757
+Train Loss: 129.8079 | Test Acc: 0.8284 | CIFAR-10-C Acc: 0.3883 | Imagenette Acc: 0.0645
+Time Taken: 9.22s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 33/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6369
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0190
+→ Max Entropy: 2.1912
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6778
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9528
+→ Max Entropy: 2.1982
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8300
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4939
+→ Max Entropy: 2.1376
+Train Loss: 129.6377 | Test Acc: 0.8348 | CIFAR-10-C Acc: 0.4207 | Imagenette Acc: 0.0583
+Time Taken: 9.24s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 34/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6272
+→ Max Confidence: 0.9998
+→ Mean Entropy: 1.0360
+→ Max Entropy: 2.1124
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7022
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8789
+→ Max Entropy: 2.1755
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8372
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4704
+→ Max Entropy: 2.1212
+Train Loss: 129.5841 | Test Acc: 0.8329 | CIFAR-10-C Acc: 0.3187 | Imagenette Acc: 0.0617
+Time Taken: 9.21s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 35/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6355
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0096
+→ Max Entropy: 2.1625
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6710
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9362
+→ Max Entropy: 2.1784
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8317
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4822
+→ Max Entropy: 2.0714
+Train Loss: 129.5338 | Test Acc: 0.8374 | CIFAR-10-C Acc: 0.3992 | Imagenette Acc: 0.0655
+Time Taken: 9.25s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 36/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6218
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0562
+→ Max Entropy: 2.2094
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6676
+→ Max Confidence: 0.9999
+→ Mean Entropy: 0.9595
+→ Max Entropy: 2.1840
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8329
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4870
+→ Max Entropy: 2.0654
+Train Loss: 129.6068 | Test Acc: 0.8342 | CIFAR-10-C Acc: 0.3689 | Imagenette Acc: 0.0614
+Time Taken: 9.25s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 37/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6460
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9973
+→ Max Entropy: 2.1633
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7133
+→ Max Confidence: 0.9999
+→ Mean Entropy: 0.8292
+→ Max Entropy: 2.1924
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8424
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4574
+→ Max Entropy: 2.1059
+Train Loss: 129.4616 | Test Acc: 0.8367 | CIFAR-10-C Acc: 0.3716 | Imagenette Acc: 0.0563
+Time Taken: 9.35s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 38/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6323
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0264
+→ Max Entropy: 2.1070
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6400
+→ Max Confidence: 0.9999
+→ Mean Entropy: 1.0083
+→ Max Entropy: 2.1663
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8394
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4660
+→ Max Entropy: 2.0631
+Train Loss: 129.4836 | Test Acc: 0.8350 | CIFAR-10-C Acc: 0.3907 | Imagenette Acc: 0.0683
+Time Taken: 9.26s
+Memory Used: -0.51 MB
+Peak GPU Memory: 123.90 MB
+Epoch 39/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6382
+→ Max Confidence: 0.9999
+→ Mean Entropy: 1.0205
+→ Max Entropy: 2.1314
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6635
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9597
+→ Max Entropy: 2.2130
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8380
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4701
+→ Max Entropy: 2.1178
+Train Loss: 129.6212 | Test Acc: 0.8320 | CIFAR-10-C Acc: 0.3813 | Imagenette Acc: 0.0538
+Time Taken: 9.16s
+Memory Used: 0.51 MB
+Peak GPU Memory: 123.90 MB
+Epoch 40/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6451
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9871
+→ Max Entropy: 2.1648
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7000
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8538
+→ Max Entropy: 2.1935
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8450
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4477
+→ Max Entropy: 2.0979
+Train Loss: 129.5334 | Test Acc: 0.8354 | CIFAR-10-C Acc: 0.3944 | Imagenette Acc: 0.0690
+Time Taken: 9.21s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 41/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6383
+→ Max Confidence: 0.9999
+→ Mean Entropy: 1.0192
+→ Max Entropy: 2.1995
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6414
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0421
+→ Max Entropy: 2.2189
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8346
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4802
+→ Max Entropy: 2.1523
+Train Loss: 129.3878 | Test Acc: 0.8424 | CIFAR-10-C Acc: 0.4206 | Imagenette Acc: 0.0655
+Time Taken: 9.20s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 42/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6331
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0245
+→ Max Entropy: 2.1401
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6639
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9679
+→ Max Entropy: 2.2013
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8403
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4599
+→ Max Entropy: 2.0898
+Train Loss: 129.3606 | Test Acc: 0.8357 | CIFAR-10-C Acc: 0.4363 | Imagenette Acc: 0.0668
+Time Taken: 9.20s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 43/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6382
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0001
+→ Max Entropy: 2.1187
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7103
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8261
+→ Max Entropy: 2.1243
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8447
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4485
+→ Max Entropy: 2.0580
+Train Loss: 129.3991 | Test Acc: 0.8366 | CIFAR-10-C Acc: 0.4339 | Imagenette Acc: 0.0599
+Time Taken: 9.17s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 44/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6695
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9318
+→ Max Entropy: 2.2037
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7051
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8578
+→ Max Entropy: 2.1428
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8457
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4451
+→ Max Entropy: 2.1084
+Train Loss: 129.2997 | Test Acc: 0.8352 | CIFAR-10-C Acc: 0.3382 | Imagenette Acc: 0.0520
+Time Taken: 9.16s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 45/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6499
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9780
+→ Max Entropy: 2.1472
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6425
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0168
+→ Max Entropy: 2.1752
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8497
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4364
+→ Max Entropy: 2.0667
+Train Loss: 129.5046 | Test Acc: 0.8463 | CIFAR-10-C Acc: 0.3997 | Imagenette Acc: 0.0591
+Time Taken: 9.20s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 46/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6560
+→ Max Confidence: 0.9999
+→ Mean Entropy: 0.9692
+→ Max Entropy: 2.1241
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6421
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0190
+→ Max Entropy: 2.2179
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8495
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4375
+→ Max Entropy: 2.0636
+Train Loss: 129.4386 | Test Acc: 0.8392 | CIFAR-10-C Acc: 0.4050 | Imagenette Acc: 0.0622
+Time Taken: 9.26s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 47/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6502
+→ Max Confidence: 0.9999
+→ Mean Entropy: 0.9753
+→ Max Entropy: 2.1795
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6615
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9735
+→ Max Entropy: 2.2197
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8485
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4364
+→ Max Entropy: 2.2119
+Train Loss: 129.4475 | Test Acc: 0.8468 | CIFAR-10-C Acc: 0.4343 | Imagenette Acc: 0.0650
+Time Taken: 9.18s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 48/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6522
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9785
+→ Max Entropy: 2.1955
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6625
+→ Max Confidence: 0.9999
+→ Mean Entropy: 0.9572
+→ Max Entropy: 2.1935
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8458
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4469
+→ Max Entropy: 2.1603
+Train Loss: 129.3198 | Test Acc: 0.8441 | CIFAR-10-C Acc: 0.4093 | Imagenette Acc: 0.0566
+Time Taken: 9.17s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 49/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6390
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0089
+→ Max Entropy: 2.1913
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6934
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8760
+→ Max Entropy: 2.0679
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8459
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4462
+→ Max Entropy: 2.1152
+Train Loss: 129.3207 | Test Acc: 0.8463 | CIFAR-10-C Acc: 0.3961 | Imagenette Acc: 0.0611
+Time Taken: 9.24s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 50/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6456
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9913
+→ Max Entropy: 2.1278
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6671
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9564
+→ Max Entropy: 2.1577
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8482
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4393
+→ Max Entropy: 2.0394
+Train Loss: 129.1760 | Test Acc: 0.8476 | CIFAR-10-C Acc: 0.4480 | Imagenette Acc: 0.0591
+Time Taken: 9.19s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 51/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6562
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9614
+→ Max Entropy: 2.1167
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7171
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8063
+→ Max Entropy: 2.1035
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8511
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4293
+→ Max Entropy: 2.0417
+Train Loss: 129.2612 | Test Acc: 0.8389 | CIFAR-10-C Acc: 0.3746 | Imagenette Acc: 0.0583
+Time Taken: 9.35s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 52/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6587
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9620
+→ Max Entropy: 2.1666
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6775
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9002
+→ Max Entropy: 2.0818
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8529
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4245
+→ Max Entropy: 2.0345
+Train Loss: 129.3650 | Test Acc: 0.8401 | CIFAR-10-C Acc: 0.4131 | Imagenette Acc: 0.0571
+Time Taken: 9.24s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 53/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6512
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9788
+→ Max Entropy: 2.1205
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6923
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8701
+→ Max Entropy: 2.0673
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8514
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4270
+→ Max Entropy: 2.0592
+Train Loss: 129.2675 | Test Acc: 0.8480 | CIFAR-10-C Acc: 0.3436 | Imagenette Acc: 0.0558
+Time Taken: 9.22s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 54/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6541
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9672
+→ Max Entropy: 2.0961
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6893
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8728
+→ Max Entropy: 2.0771
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8547
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4201
+→ Max Entropy: 2.0523
+Train Loss: 129.2889 | Test Acc: 0.8491 | CIFAR-10-C Acc: 0.3693 | Imagenette Acc: 0.0604
+Time Taken: 9.35s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 55/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6666
+→ Max Confidence: 0.9999
+→ Mean Entropy: 0.9341
+→ Max Entropy: 2.1192
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6771
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9044
+→ Max Entropy: 2.1313
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8550
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4189
+→ Max Entropy: 2.1697
+Train Loss: 129.2825 | Test Acc: 0.8509 | CIFAR-10-C Acc: 0.3626 | Imagenette Acc: 0.0553
+Time Taken: 9.19s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 56/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6491
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9817
+→ Max Entropy: 2.0859
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6854
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9001
+→ Max Entropy: 2.2297
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8556
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4177
+→ Max Entropy: 2.1296
+Train Loss: 129.2082 | Test Acc: 0.8492 | CIFAR-10-C Acc: 0.3554 | Imagenette Acc: 0.0614
+Time Taken: 9.21s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 57/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6562
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9589
+→ Max Entropy: 2.0746
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6887
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8940
+→ Max Entropy: 2.1742
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8532
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4218
+→ Max Entropy: 2.0786
+Train Loss: 129.1170 | Test Acc: 0.8447 | CIFAR-10-C Acc: 0.4113 | Imagenette Acc: 0.0576
+Time Taken: 9.38s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 58/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6628
+→ Max Confidence: 0.9999
+→ Mean Entropy: 0.9414
+→ Max Entropy: 2.1618
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7248
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.7961
+→ Max Entropy: 2.0943
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8598
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4039
+→ Max Entropy: 2.0566
+Train Loss: 129.1461 | Test Acc: 0.8490 | CIFAR-10-C Acc: 0.3773 | Imagenette Acc: 0.0563
+Time Taken: 9.18s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 59/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6613
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9464
+→ Max Entropy: 2.1708
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6824
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8976
+→ Max Entropy: 2.2243
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8560
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4123
+→ Max Entropy: 2.0208
+Train Loss: 129.1463 | Test Acc: 0.8483 | CIFAR-10-C Acc: 0.3753 | Imagenette Acc: 0.0647
+Time Taken: 9.25s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 60/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6599
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9498
+→ Max Entropy: 2.1512
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7125
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8183
+→ Max Entropy: 2.0993
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8549
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4165
+→ Max Entropy: 2.1334
+Train Loss: 129.0642 | Test Acc: 0.8500 | CIFAR-10-C Acc: 0.3692 | Imagenette Acc: 0.0604
+Time Taken: 9.25s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 61/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6737
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9054
+→ Max Entropy: 2.1515
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7234
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.7896
+→ Max Entropy: 2.0553
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8598
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3997
+→ Max Entropy: 2.1593
+Train Loss: 129.2721 | Test Acc: 0.8539 | CIFAR-10-C Acc: 0.4141 | Imagenette Acc: 0.0510
+Time Taken: 9.19s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 62/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6554
+→ Max Confidence: 0.9999
+→ Mean Entropy: 0.9615
+→ Max Entropy: 2.0983
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6789
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9058
+→ Max Entropy: 2.1090
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8561
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4130
+→ Max Entropy: 2.1254
+Train Loss: 129.0246 | Test Acc: 0.8516 | CIFAR-10-C Acc: 0.3554 | Imagenette Acc: 0.0611
+Time Taken: 9.20s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 63/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6632
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9428
+→ Max Entropy: 2.1599
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7232
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.7877
+→ Max Entropy: 2.0805
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8575
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4099
+→ Max Entropy: 2.1447
+Train Loss: 129.1491 | Test Acc: 0.8502 | CIFAR-10-C Acc: 0.3398 | Imagenette Acc: 0.0571
+Time Taken: 9.21s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 64/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6701
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9228
+→ Max Entropy: 2.1106
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7532
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.7115
+→ Max Entropy: 2.0840
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8602
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3999
+→ Max Entropy: 2.1161
+Train Loss: 129.1879 | Test Acc: 0.8414 | CIFAR-10-C Acc: 0.3140 | Imagenette Acc: 0.0540
+Time Taken: 9.24s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 65/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6565
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9607
+→ Max Entropy: 2.1743
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7667
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.6756
+→ Max Entropy: 2.0627
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8538
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4213
+→ Max Entropy: 2.1505
+Train Loss: 129.0526 | Test Acc: 0.8447 | CIFAR-10-C Acc: 0.3000 | Imagenette Acc: 0.0520
+Time Taken: 9.21s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 66/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6535
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9705
+→ Max Entropy: 2.1569
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7045
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8681
+→ Max Entropy: 2.1882
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8537
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4225
+→ Max Entropy: 2.0815
+Train Loss: 128.9703 | Test Acc: 0.8461 | CIFAR-10-C Acc: 0.3281 | Imagenette Acc: 0.0538
+Time Taken: 9.25s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 67/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6808
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8981
+→ Max Entropy: 2.0218
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7081
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8385
+→ Max Entropy: 2.1463
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8661
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3859
+→ Max Entropy: 2.0358
+Train Loss: 129.0169 | Test Acc: 0.8568 | CIFAR-10-C Acc: 0.3429 | Imagenette Acc: 0.0525
+Time Taken: 9.36s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 68/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6479
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9783
+→ Max Entropy: 2.0812
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7152
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8250
+→ Max Entropy: 2.1457
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8574
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4104
+→ Max Entropy: 2.0652
+Train Loss: 129.0307 | Test Acc: 0.8528 | CIFAR-10-C Acc: 0.3538 | Imagenette Acc: 0.0581
+Time Taken: 9.25s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 69/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6598
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9532
+→ Max Entropy: 2.2139
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6837
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8991
+→ Max Entropy: 2.1507
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8605
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4041
+→ Max Entropy: 2.0060
+Train Loss: 128.9588 | Test Acc: 0.8457 | CIFAR-10-C Acc: 0.3982 | Imagenette Acc: 0.0522
+Time Taken: 9.28s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 70/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6556
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9585
+→ Max Entropy: 2.1295
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6819
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9185
+→ Max Entropy: 2.1706
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8592
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4014
+→ Max Entropy: 1.9983
+Train Loss: 129.0244 | Test Acc: 0.8577 | CIFAR-10-C Acc: 0.4368 | Imagenette Acc: 0.0673
+Time Taken: 9.25s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 71/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6631
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9358
+→ Max Entropy: 2.0868
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7262
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.7874
+→ Max Entropy: 2.2479
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8646
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3872
+→ Max Entropy: 2.0059
+Train Loss: 128.9956 | Test Acc: 0.8572 | CIFAR-10-C Acc: 0.4053 | Imagenette Acc: 0.0535
+Time Taken: 9.27s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 72/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6681
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9292
+→ Max Entropy: 2.1067
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7095
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8635
+→ Max Entropy: 2.2171
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8660
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3875
+→ Max Entropy: 2.0490
+Train Loss: 128.9349 | Test Acc: 0.8566 | CIFAR-10-C Acc: 0.3689 | Imagenette Acc: 0.0522
+Time Taken: 9.29s
+Memory Used: -0.51 MB
+Peak GPU Memory: 123.90 MB
+Epoch 73/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6560
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9617
+→ Max Entropy: 2.1052
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7130
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8362
+→ Max Entropy: 2.1732
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8620
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3988
+→ Max Entropy: 1.9927
+Train Loss: 128.9247 | Test Acc: 0.8540 | CIFAR-10-C Acc: 0.3430 | Imagenette Acc: 0.0637
+Time Taken: 9.24s
+Memory Used: 0.51 MB
+Peak GPU Memory: 123.90 MB
+Epoch 74/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6641
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9348
+→ Max Entropy: 2.2089
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6981
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8820
+→ Max Entropy: 2.1863
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8659
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3887
+→ Max Entropy: 2.0733
+Train Loss: 128.9156 | Test Acc: 0.8555 | CIFAR-10-C Acc: 0.3801 | Imagenette Acc: 0.0522
+Time Taken: 9.23s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 75/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6705
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9108
+→ Max Entropy: 2.1507
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7054
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8290
+→ Max Entropy: 2.1301
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8665
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3816
+→ Max Entropy: 2.1159
+Train Loss: 129.0226 | Test Acc: 0.8608 | CIFAR-10-C Acc: 0.4173 | Imagenette Acc: 0.0553
+Time Taken: 9.22s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 76/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6608
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9359
+→ Max Entropy: 2.1202
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6915
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8827
+→ Max Entropy: 2.2725
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8600
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3971
+→ Max Entropy: 2.0016
+Train Loss: 128.9064 | Test Acc: 0.8519 | CIFAR-10-C Acc: 0.3904 | Imagenette Acc: 0.0558
+Time Taken: 9.16s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 77/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6778
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8962
+→ Max Entropy: 2.0876
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7013
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8497
+→ Max Entropy: 2.1347
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8600
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4008
+→ Max Entropy: 1.9884
+Train Loss: 128.8445 | Test Acc: 0.8467 | CIFAR-10-C Acc: 0.3762 | Imagenette Acc: 0.0543
+Time Taken: 9.27s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 78/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6520
+→ Max Confidence: 0.9999
+→ Mean Entropy: 0.9590
+→ Max Entropy: 2.1435
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6896
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8709
+→ Max Entropy: 2.2078
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8661
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3848
+→ Max Entropy: 1.9896
+Train Loss: 128.7404 | Test Acc: 0.8555 | CIFAR-10-C Acc: 0.3945 | Imagenette Acc: 0.0515
+Time Taken: 9.21s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 79/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6729
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9064
+→ Max Entropy: 2.1266
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7171
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8030
+→ Max Entropy: 2.1348
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8699
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3717
+→ Max Entropy: 2.0853
+Train Loss: 128.8856 | Test Acc: 0.8652 | CIFAR-10-C Acc: 0.3409 | Imagenette Acc: 0.0515
+Time Taken: 9.21s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 80/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6526
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9675
+→ Max Entropy: 2.1124
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7137
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8033
+→ Max Entropy: 2.0973
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8657
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3886
+→ Max Entropy: 2.0490
+Train Loss: 128.9001 | Test Acc: 0.8588 | CIFAR-10-C Acc: 0.2841 | Imagenette Acc: 0.0634
+Time Taken: 9.26s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 81/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6696
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9171
+→ Max Entropy: 2.0999
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7212
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8109
+→ Max Entropy: 2.1023
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8695
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3757
+→ Max Entropy: 1.9903
+Train Loss: 128.9274 | Test Acc: 0.8505 | CIFAR-10-C Acc: 0.3530 | Imagenette Acc: 0.0561
+Time Taken: 9.18s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 82/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6605
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9428
+→ Max Entropy: 2.1241
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6858
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8780
+→ Max Entropy: 2.1528
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8634
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3916
+→ Max Entropy: 2.0528
+Train Loss: 128.8712 | Test Acc: 0.8573 | CIFAR-10-C Acc: 0.3570 | Imagenette Acc: 0.0611
+Time Taken: 9.19s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 83/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6577
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9537
+→ Max Entropy: 2.1143
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7005
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8443
+→ Max Entropy: 2.1577
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8606
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.4021
+→ Max Entropy: 2.2192
+Train Loss: 128.8232 | Test Acc: 0.8600 | CIFAR-10-C Acc: 0.3266 | Imagenette Acc: 0.0583
+Time Taken: 9.21s
+Memory Used: -0.51 MB
+Peak GPU Memory: 123.90 MB
+Epoch 84/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6741
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9092
+→ Max Entropy: 2.1727
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6883
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8888
+→ Max Entropy: 2.1188
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8700
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3742
+→ Max Entropy: 2.0440
+Train Loss: 128.9441 | Test Acc: 0.8614 | CIFAR-10-C Acc: 0.3810 | Imagenette Acc: 0.0652
+Time Taken: 9.20s
+Memory Used: 0.51 MB
+Peak GPU Memory: 123.90 MB
+Epoch 85/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6749
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9062
+→ Max Entropy: 2.0690
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6581
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9616
+→ Max Entropy: 2.1238
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8674
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3820
+→ Max Entropy: 2.0749
+Train Loss: 128.8777 | Test Acc: 0.8575 | CIFAR-10-C Acc: 0.4005 | Imagenette Acc: 0.0690
+Time Taken: 9.22s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 86/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6731
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9069
+→ Max Entropy: 2.0375
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6777
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9173
+→ Max Entropy: 2.0944
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8709
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3702
+→ Max Entropy: 2.0166
+Train Loss: 128.8807 | Test Acc: 0.8601 | CIFAR-10-C Acc: 0.3735 | Imagenette Acc: 0.0576
+Time Taken: 9.18s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 87/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6779
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8970
+→ Max Entropy: 2.1274
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6967
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8675
+→ Max Entropy: 2.0449
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8737
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3612
+→ Max Entropy: 1.9806
+Train Loss: 128.8938 | Test Acc: 0.8634 | CIFAR-10-C Acc: 0.3876 | Imagenette Acc: 0.0543
+Time Taken: 9.26s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 88/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6687
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9196
+→ Max Entropy: 2.1245
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7430
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.7342
+→ Max Entropy: 2.1728
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8706
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3707
+→ Max Entropy: 2.1317
+Train Loss: 128.7978 | Test Acc: 0.8516 | CIFAR-10-C Acc: 0.2938 | Imagenette Acc: 0.0515
+Time Taken: 9.20s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 89/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6693
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9243
+→ Max Entropy: 2.1253
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7639
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.6798
+→ Max Entropy: 2.0632
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8701
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3739
+→ Max Entropy: 2.1402
+Train Loss: 128.8255 | Test Acc: 0.8505 | CIFAR-10-C Acc: 0.2980 | Imagenette Acc: 0.0459
+Time Taken: 9.25s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 90/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6690
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9166
+→ Max Entropy: 2.1517
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6747
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9187
+→ Max Entropy: 2.2047
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8689
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3758
+→ Max Entropy: 2.1206
+Train Loss: 128.7935 | Test Acc: 0.8599 | CIFAR-10-C Acc: 0.3774 | Imagenette Acc: 0.0576
+Time Taken: 9.28s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 91/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6805
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8901
+→ Max Entropy: 2.0996
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6739
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9195
+→ Max Entropy: 2.1112
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8705
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3721
+→ Max Entropy: 2.0709
+Train Loss: 128.7576 | Test Acc: 0.8591 | CIFAR-10-C Acc: 0.3654 | Imagenette Acc: 0.0589
+Time Taken: 9.31s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 92/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6737
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9023
+→ Max Entropy: 2.1620
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6962
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8568
+→ Max Entropy: 2.1057
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8748
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3585
+→ Max Entropy: 2.0678
+Train Loss: 128.6691 | Test Acc: 0.8578 | CIFAR-10-C Acc: 0.3360 | Imagenette Acc: 0.0535
+Time Taken: 9.25s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 93/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6706
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9128
+→ Max Entropy: 2.1689
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7165
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8115
+→ Max Entropy: 2.0868
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8697
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3723
+→ Max Entropy: 2.0412
+Train Loss: 128.6524 | Test Acc: 0.8617 | CIFAR-10-C Acc: 0.3631 | Imagenette Acc: 0.0548
+Time Taken: 9.35s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 94/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6674
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9192
+→ Max Entropy: 2.0823
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6902
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8831
+→ Max Entropy: 2.1492
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8722
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3644
+→ Max Entropy: 2.0310
+Train Loss: 128.5478 | Test Acc: 0.8615 | CIFAR-10-C Acc: 0.3826 | Imagenette Acc: 0.0512
+Time Taken: 9.19s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 95/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6729
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9057
+→ Max Entropy: 2.1032
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6386
+→ Max Confidence: 1.0000
+→ Mean Entropy: 1.0151
+→ Max Entropy: 2.1245
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8746
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3610
+→ Max Entropy: 2.0623
+Train Loss: 128.6197 | Test Acc: 0.8634 | CIFAR-10-C Acc: 0.4137 | Imagenette Acc: 0.0634
+Time Taken: 9.20s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 96/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6751
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8949
+→ Max Entropy: 2.1279
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.7546
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.7076
+→ Max Entropy: 2.1596
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8715
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3663
+→ Max Entropy: 2.0934
+Train Loss: 128.6296 | Test Acc: 0.8631 | CIFAR-10-C Acc: 0.3362 | Imagenette Acc: 0.0578
+Time Taken: 9.26s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 97/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6839
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8758
+→ Max Entropy: 2.1787
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6911
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8693
+→ Max Entropy: 2.1162
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8743
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3584
+→ Max Entropy: 2.0342
+Train Loss: 128.6127 | Test Acc: 0.8624 | CIFAR-10-C Acc: 0.3454 | Imagenette Acc: 0.0599
+Time Taken: 9.19s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 98/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6757
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8994
+→ Max Entropy: 2.1483
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6794
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9135
+→ Max Entropy: 2.1137
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8729
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3611
+→ Max Entropy: 2.0873
+Train Loss: 128.6811 | Test Acc: 0.8602 | CIFAR-10-C Acc: 0.3799 | Imagenette Acc: 0.0497
+Time Taken: 9.20s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 99/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6769
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8794
+→ Max Entropy: 2.1084
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6463
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9835
+→ Max Entropy: 2.1602
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8753
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3540
+→ Max Entropy: 1.9873
+Train Loss: 128.6672 | Test Acc: 0.8602 | CIFAR-10-C Acc: 0.4364 | Imagenette Acc: 0.0510
+Time Taken: 9.22s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB
+Epoch 100/100
+Robustness Evaluation on ImageNet Easy-10:
+→ Mean Confidence: 0.6642
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.9214
+→ Max Entropy: 2.0986
+Robustness Evaluation on cifar_c:
+→ Mean Confidence: 0.6823
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.8852
+→ Max Entropy: 2.1142
+Robustness Evaluation on cifar:
+→ Mean Confidence: 0.8763
+→ Max Confidence: 1.0000
+→ Mean Entropy: 0.3553
+→ Max Entropy: 2.0554
+Train Loss: 128.6424 | Test Acc: 0.8659 | CIFAR-10-C Acc: 0.3649 | Imagenette Acc: 0.0599
+Time Taken: 9.26s
+Memory Used: 0.00 MB
+Peak GPU Memory: 123.90 MB

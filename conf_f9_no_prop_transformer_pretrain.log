@@ -1,0 +1,213 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Using timm pretrained weights
+Test Acc: 0.4345 | Train Loss: 156.4570
+Epoch 1 Loss Breakdown → CE: 1.6561 | Denoise: 0.1694 | KL: 129.3179
+Test Acc: 0.4573 | Train Loss: 117.5622
+Epoch 2 Loss Breakdown → CE: 1.2425 | Denoise: 0.0625 | KL: 104.6069
+Test Acc: 0.4589 | Train Loss: 104.6011
+Epoch 3 Loss Breakdown → CE: 1.5552 | Denoise: 0.0785 | KL: 103.4842
+Test Acc: 0.4219 | Train Loss: 100.4915
+Epoch 4 Loss Breakdown → CE: 1.2046 | Denoise: 0.1817 | KL: 97.1986
+Test Acc: 0.4462 | Train Loss: 99.3787
+Epoch 5 Loss Breakdown → CE: 1.1284 | Denoise: 0.1639 | KL: 98.0164
+Test Acc: 0.4690 | Train Loss: 98.9743
+Epoch 6 Loss Breakdown → CE: 1.9342 | Denoise: 0.1345 | KL: 93.1897
+Test Acc: 0.4517 | Train Loss: 98.8851
+Epoch 7 Loss Breakdown → CE: 1.5317 | Denoise: 0.1063 | KL: 95.2214
+Test Acc: 0.4563 | Train Loss: 98.8822
+Epoch 8 Loss Breakdown → CE: 1.5364 | Denoise: 0.0930 | KL: 98.3605
+Test Acc: 0.4813 | Train Loss: 98.8351
+Epoch 9 Loss Breakdown → CE: 1.3204 | Denoise: 0.0704 | KL: 93.8672
+Test Acc: 0.4602 | Train Loss: 98.8270
+Epoch 10 Loss Breakdown → CE: 1.5368 | Denoise: 0.0467 | KL: 101.7940
+Visualizing label embedding diffusion...
+Test Acc: 0.4813 | Train Loss: 98.8369
+Epoch 11 Loss Breakdown → CE: 1.3277 | Denoise: 0.0290 | KL: 98.9941
+Test Acc: 0.4724 | Train Loss: 98.8841
+Epoch 12 Loss Breakdown → CE: 1.5342 | Denoise: 0.0461 | KL: 96.0712
+Test Acc: 0.4653 | Train Loss: 98.7589
+Epoch 13 Loss Breakdown → CE: 1.4707 | Denoise: 0.0407 | KL: 95.7056
+Test Acc: 0.4937 | Train Loss: 98.8057
+Epoch 14 Loss Breakdown → CE: 1.3625 | Denoise: 0.0721 | KL: 97.5613
+Test Acc: 0.4779 | Train Loss: 98.7055
+Epoch 15 Loss Breakdown → CE: 1.9606 | Denoise: 0.0225 | KL: 95.6989
+Test Acc: 0.4783 | Train Loss: 98.9745
+Epoch 16 Loss Breakdown → CE: 1.5305 | Denoise: 0.0523 | KL: 96.7594
+Test Acc: 0.4523 | Train Loss: 98.7335
+Epoch 17 Loss Breakdown → CE: 1.6998 | Denoise: 0.0360 | KL: 97.6282
+Test Acc: 0.4812 | Train Loss: 98.6352
+Epoch 18 Loss Breakdown → CE: 1.2962 | Denoise: 0.0695 | KL: 97.4107
+Test Acc: 0.5258 | Train Loss: 98.4857
+Epoch 19 Loss Breakdown → CE: 1.3187 | Denoise: 0.0268 | KL: 98.6744
+Test Acc: 0.5166 | Train Loss: 98.5820
+Epoch 20 Loss Breakdown → CE: 1.2144 | Denoise: 0.0146 | KL: 95.8230
+Visualizing label embedding diffusion...
+Test Acc: 0.5135 | Train Loss: 98.5772
+Epoch 21 Loss Breakdown → CE: 1.4905 | Denoise: 0.0612 | KL: 98.0253
+Test Acc: 0.5529 | Train Loss: 98.5364
+Epoch 22 Loss Breakdown → CE: 1.0135 | Denoise: 0.0336 | KL: 93.0014
+Test Acc: 0.5498 | Train Loss: 98.4244
+Epoch 23 Loss Breakdown → CE: 1.5210 | Denoise: 0.0222 | KL: 95.9149
+Test Acc: 0.5457 | Train Loss: 98.4705
+Epoch 24 Loss Breakdown → CE: 0.9505 | Denoise: 0.0198 | KL: 96.1279
+Test Acc: 0.5423 | Train Loss: 98.4679
+Epoch 25 Loss Breakdown → CE: 1.5504 | Denoise: 0.0547 | KL: 96.2727
+Test Acc: 0.5639 | Train Loss: 98.4022
+Epoch 26 Loss Breakdown → CE: 1.4640 | Denoise: 0.0164 | KL: 96.3828
+Test Acc: 0.5776 | Train Loss: 98.4222
+Epoch 27 Loss Breakdown → CE: 1.0600 | Denoise: 0.0216 | KL: 93.9363
+Test Acc: 0.5610 | Train Loss: 98.3249
+Epoch 28 Loss Breakdown → CE: 0.9848 | Denoise: 0.0434 | KL: 94.3457
+Test Acc: 0.5841 | Train Loss: 98.3801
+Epoch 29 Loss Breakdown → CE: 1.7473 | Denoise: 0.0122 | KL: 97.4948
+Test Acc: 0.5438 | Train Loss: 98.4503
+Epoch 30 Loss Breakdown → CE: 0.9006 | Denoise: 0.0096 | KL: 95.5401
+Visualizing label embedding diffusion...
+Test Acc: 0.5609 | Train Loss: 98.3919
+Epoch 31 Loss Breakdown → CE: 1.0358 | Denoise: 0.0342 | KL: 97.1320
+Test Acc: 0.5793 | Train Loss: 98.2407
+Epoch 32 Loss Breakdown → CE: 1.0189 | Denoise: 0.0858 | KL: 95.6060
+Test Acc: 0.5509 | Train Loss: 98.2572
+Epoch 33 Loss Breakdown → CE: 1.3429 | Denoise: 0.0586 | KL: 95.4897
+Test Acc: 0.5563 | Train Loss: 98.1465
+Epoch 34 Loss Breakdown → CE: 0.8745 | Denoise: 0.0238 | KL: 95.6985
+Test Acc: 0.5890 | Train Loss: 98.2244
+Epoch 35 Loss Breakdown → CE: 1.0695 | Denoise: 0.0481 | KL: 94.5616
+Test Acc: 0.6150 | Train Loss: 98.1448
+Epoch 36 Loss Breakdown → CE: 0.7144 | Denoise: 0.0203 | KL: 94.1367
+Test Acc: 0.6090 | Train Loss: 98.2110
+Epoch 37 Loss Breakdown → CE: 0.8940 | Denoise: 0.0188 | KL: 93.6653
+Test Acc: 0.5940 | Train Loss: 98.1800
+Epoch 38 Loss Breakdown → CE: 1.0818 | Denoise: 0.0339 | KL: 97.8143
+Test Acc: 0.6061 | Train Loss: 98.1527
+Epoch 39 Loss Breakdown → CE: 0.8857 | Denoise: 0.0213 | KL: 97.0914
+Test Acc: 0.6045 | Train Loss: 97.9930
+Epoch 40 Loss Breakdown → CE: 0.9498 | Denoise: 0.0175 | KL: 101.0215
+Visualizing label embedding diffusion...
+Test Acc: 0.6071 | Train Loss: 98.1081
+Epoch 41 Loss Breakdown → CE: 1.0024 | Denoise: 0.0215 | KL: 99.0336
+Test Acc: 0.5912 | Train Loss: 98.0322
+Epoch 42 Loss Breakdown → CE: 1.2624 | Denoise: 0.0142 | KL: 94.4795
+Test Acc: 0.6122 | Train Loss: 98.0655
+Epoch 43 Loss Breakdown → CE: 0.5565 | Denoise: 0.0169 | KL: 97.1752
+Test Acc: 0.5985 | Train Loss: 98.2230
+Epoch 44 Loss Breakdown → CE: 1.4637 | Denoise: 0.0153 | KL: 94.2781
+Test Acc: 0.6090 | Train Loss: 98.0033
+Epoch 45 Loss Breakdown → CE: 0.8781 | Denoise: 0.0080 | KL: 98.0729
+Test Acc: 0.5979 | Train Loss: 98.0409
+Epoch 46 Loss Breakdown → CE: 0.8377 | Denoise: 0.0284 | KL: 98.1144
+Test Acc: 0.6045 | Train Loss: 97.9463
+Epoch 47 Loss Breakdown → CE: 1.1274 | Denoise: 0.0064 | KL: 96.2736
+Test Acc: 0.6136 | Train Loss: 97.8546
+Epoch 48 Loss Breakdown → CE: 0.8679 | Denoise: 0.0067 | KL: 92.5942
+Test Acc: 0.6145 | Train Loss: 97.9341
+Epoch 49 Loss Breakdown → CE: 1.3467 | Denoise: 0.0141 | KL: 97.6688
+Test Acc: 0.6089 | Train Loss: 97.9925
+Epoch 50 Loss Breakdown → CE: 0.6338 | Denoise: 0.0131 | KL: 93.6971
+Visualizing label embedding diffusion...
+Test Acc: 0.6243 | Train Loss: 98.0001
+Epoch 51 Loss Breakdown → CE: 1.1122 | Denoise: 0.0103 | KL: 98.1176
+Test Acc: 0.6219 | Train Loss: 97.8981
+Epoch 52 Loss Breakdown → CE: 0.6068 | Denoise: 0.0068 | KL: 95.2407
+Test Acc: 0.6072 | Train Loss: 97.8448
+Epoch 53 Loss Breakdown → CE: 0.7904 | Denoise: 0.0071 | KL: 91.5434
+Test Acc: 0.6086 | Train Loss: 97.8477
+Epoch 54 Loss Breakdown → CE: 0.6185 | Denoise: 0.0145 | KL: 96.7319
+Test Acc: 0.6192 | Train Loss: 97.8771
+Epoch 55 Loss Breakdown → CE: 0.5533 | Denoise: 0.0072 | KL: 97.6180
+Test Acc: 0.6189 | Train Loss: 97.7711
+Epoch 56 Loss Breakdown → CE: 0.8121 | Denoise: 0.0063 | KL: 92.7452
+Test Acc: 0.6299 | Train Loss: 97.9498
+Epoch 57 Loss Breakdown → CE: 0.3919 | Denoise: 0.0158 | KL: 97.6090
+Test Acc: 0.6260 | Train Loss: 97.8707
+Epoch 58 Loss Breakdown → CE: 1.1482 | Denoise: 0.0075 | KL: 94.1925
+Test Acc: 0.6181 | Train Loss: 97.8882
+Epoch 59 Loss Breakdown → CE: 1.0736 | Denoise: 0.0137 | KL: 95.1086
+Test Acc: 0.6146 | Train Loss: 97.9105
+Epoch 60 Loss Breakdown → CE: 0.9611 | Denoise: 0.0086 | KL: 96.7935
+Visualizing label embedding diffusion...
+Test Acc: 0.6223 | Train Loss: 97.9163
+Epoch 61 Loss Breakdown → CE: 1.6093 | Denoise: 0.1965 | KL: 93.9916
+Test Acc: 0.6158 | Train Loss: 97.8101
+Epoch 62 Loss Breakdown → CE: 0.6903 | Denoise: 0.0145 | KL: 96.6410
+Test Acc: 0.6260 | Train Loss: 97.8085
+Epoch 63 Loss Breakdown → CE: 1.1629 | Denoise: 0.0072 | KL: 96.7445
+Test Acc: 0.6178 | Train Loss: 97.8561
+Epoch 64 Loss Breakdown → CE: 0.8741 | Denoise: 0.0130 | KL: 97.6842
+Test Acc: 0.6207 | Train Loss: 97.7881
+Epoch 65 Loss Breakdown → CE: 0.8369 | Denoise: 0.0428 | KL: 98.9112
+Test Acc: 0.6116 | Train Loss: 97.7250
+Epoch 66 Loss Breakdown → CE: 1.4253 | Denoise: 0.0052 | KL: 96.8795
+Test Acc: 0.6239 | Train Loss: 97.8425
+Epoch 67 Loss Breakdown → CE: 0.5823 | Denoise: 0.0048 | KL: 96.0500
+Test Acc: 0.6308 | Train Loss: 97.7577
+Epoch 68 Loss Breakdown → CE: 0.5526 | Denoise: 0.0066 | KL: 96.1528
+Test Acc: 0.6210 | Train Loss: 97.7082
+Epoch 69 Loss Breakdown → CE: 0.8367 | Denoise: 0.0051 | KL: 94.4239
+Test Acc: 0.6281 | Train Loss: 97.7986
+Epoch 70 Loss Breakdown → CE: 0.5899 | Denoise: 0.0098 | KL: 95.4473
+Visualizing label embedding diffusion...
+Test Acc: 0.6188 | Train Loss: 97.7686
+Epoch 71 Loss Breakdown → CE: 1.0802 | Denoise: 0.0034 | KL: 91.6117
+Test Acc: 0.6095 | Train Loss: 97.8292
+Epoch 72 Loss Breakdown → CE: 0.8697 | Denoise: 0.0042 | KL: 99.3219
+Test Acc: 0.6166 | Train Loss: 97.8508
+Epoch 73 Loss Breakdown → CE: 1.0830 | Denoise: 0.0082 | KL: 94.8631
+Test Acc: 0.6284 | Train Loss: 97.6922
+Epoch 74 Loss Breakdown → CE: 0.6612 | Denoise: 0.0076 | KL: 97.4601
+Test Acc: 0.6201 | Train Loss: 97.6800
+Epoch 75 Loss Breakdown → CE: 0.7328 | Denoise: 0.0030 | KL: 97.9573
+Test Acc: 0.6227 | Train Loss: 97.7542
+Epoch 76 Loss Breakdown → CE: 0.7061 | Denoise: 0.0039 | KL: 94.8357
+Test Acc: 0.6270 | Train Loss: 97.7655
+Epoch 77 Loss Breakdown → CE: 0.6929 | Denoise: 0.0076 | KL: 96.6201
+Test Acc: 0.6253 | Train Loss: 97.7062
+Epoch 78 Loss Breakdown → CE: 1.0660 | Denoise: 0.0064 | KL: 93.7255
+Test Acc: 0.6225 | Train Loss: 97.6433
+Epoch 79 Loss Breakdown → CE: 0.2672 | Denoise: 0.0075 | KL: 97.3586
+Test Acc: 0.6379 | Train Loss: 97.7034
+Epoch 80 Loss Breakdown → CE: 0.7211 | Denoise: 0.0047 | KL: 94.2762
+Visualizing label embedding diffusion...
+Test Acc: 0.6310 | Train Loss: 97.6625
+Epoch 81 Loss Breakdown → CE: 1.0370 | Denoise: 0.0065 | KL: 93.4709
+Test Acc: 0.6250 | Train Loss: 97.7141
+Epoch 82 Loss Breakdown → CE: 0.7972 | Denoise: 0.0079 | KL: 92.5712
+Test Acc: 0.6285 | Train Loss: 97.6971
+Epoch 83 Loss Breakdown → CE: 0.9975 | Denoise: 0.0036 | KL: 93.3675
+Test Acc: 0.6243 | Train Loss: 97.7807
+Epoch 84 Loss Breakdown → CE: 0.8375 | Denoise: 0.0029 | KL: 91.7035
+Test Acc: 0.6291 | Train Loss: 97.5733
+Epoch 85 Loss Breakdown → CE: 0.8553 | Denoise: 0.0073 | KL: 93.5138
+Test Acc: 0.6344 | Train Loss: 97.6830
+Epoch 86 Loss Breakdown → CE: 0.9241 | Denoise: 0.0045 | KL: 98.4934
+Test Acc: 0.6338 | Train Loss: 97.6411
+Epoch 87 Loss Breakdown → CE: 0.5583 | Denoise: 0.0027 | KL: 98.1015
+Test Acc: 0.6222 | Train Loss: 97.6866
+Epoch 88 Loss Breakdown → CE: 0.8410 | Denoise: 0.0044 | KL: 94.0090
+Test Acc: 0.6410 | Train Loss: 97.7206
+Epoch 89 Loss Breakdown → CE: 0.4908 | Denoise: 0.0069 | KL: 101.1474
+Test Acc: 0.6264 | Train Loss: 97.6253
+Epoch 90 Loss Breakdown → CE: 0.6988 | Denoise: 0.0052 | KL: 98.9915
+Visualizing label embedding diffusion...
+Test Acc: 0.6240 | Train Loss: 97.5891
+Epoch 91 Loss Breakdown → CE: 0.4893 | Denoise: 0.0042 | KL: 94.6906
+Test Acc: 0.6296 | Train Loss: 97.7289
+Epoch 92 Loss Breakdown → CE: 1.1019 | Denoise: 0.0035 | KL: 98.4517
+Test Acc: 0.6267 | Train Loss: 97.6185
+Epoch 93 Loss Breakdown → CE: 0.4889 | Denoise: 0.0021 | KL: 95.5049
+Test Acc: 0.6216 | Train Loss: 97.6202
+Epoch 94 Loss Breakdown → CE: 0.9565 | Denoise: 0.0008 | KL: 96.6765
+Test Acc: 0.6357 | Train Loss: 97.5760
+Epoch 95 Loss Breakdown → CE: 0.5801 | Denoise: 0.0015 | KL: 97.4307
+Test Acc: 0.6173 | Train Loss: 97.6757
+Epoch 96 Loss Breakdown → CE: 1.0496 | Denoise: 0.0021 | KL: 97.6073
+Test Acc: 0.6381 | Train Loss: 97.5324
+Epoch 97 Loss Breakdown → CE: 0.3603 | Denoise: 0.0014 | KL: 95.5148
+Test Acc: 0.6342 | Train Loss: 97.6195
+Epoch 98 Loss Breakdown → CE: 0.6245 | Denoise: 0.0006 | KL: 92.0708
+Test Acc: 0.6185 | Train Loss: 97.6531
+Epoch 99 Loss Breakdown → CE: 0.6392 | Denoise: 0.0012 | KL: 95.8608
+Test Acc: 0.6303 | Train Loss: 97.5448
+Epoch 100 Loss Breakdown → CE: 0.9328 | Denoise: 0.0035 | KL: 93.2330
+Visualizing label embedding diffusion...

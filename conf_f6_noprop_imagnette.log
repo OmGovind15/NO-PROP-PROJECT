@@ -1,0 +1,305 @@
+Dataset already downloaded.
+Dataset already extracted.
+Files already downloaded and verified
+Files already downloaded and verified
+Classes: ['n01440764', 'n02102040', 'n02979186', 'n03000684', 'n03028079', 'n03394916', 'n03417042', 'n03425413', 'n03445777', 'n03888257']
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 1: Train Loss = 1651.5564, Val Acc = 16.97%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 2: Train Loss = 999.7282, Val Acc = 17.04%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 3: Train Loss = 707.7631, Val Acc = 12.25%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 4: Train Loss = 761.8579, Val Acc = 44.48%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 5: Train Loss = 712.2086, Val Acc = 52.33%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 6: Train Loss = 617.3514, Val Acc = 27.11%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 7: Train Loss = 598.7039, Val Acc = 48.84%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 8: Train Loss = 540.3189, Val Acc = 30.93%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 9: Train Loss = 544.9468, Val Acc = 12.89%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 10: Train Loss = 525.7506, Val Acc = 42.75%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 11: Train Loss = 510.7827, Val Acc = 11.49%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 12: Train Loss = 565.8903, Val Acc = 45.63%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 13: Train Loss = 510.0818, Val Acc = 41.68%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 14: Train Loss = 484.3794, Val Acc = 52.36%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 15: Train Loss = 477.7529, Val Acc = 35.29%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 16: Train Loss = 485.5328, Val Acc = 46.73%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 17: Train Loss = 458.0603, Val Acc = 57.40%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 18: Train Loss = 481.0540, Val Acc = 46.04%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 19: Train Loss = 452.9050, Val Acc = 46.50%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 20: Train Loss = 432.9026, Val Acc = 61.40%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 21: Train Loss = 446.7178, Val Acc = 49.17%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 22: Train Loss = 442.0512, Val Acc = 41.81%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 23: Train Loss = 443.0059, Val Acc = 66.52%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 24: Train Loss = 432.5454, Val Acc = 46.09%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 25: Train Loss = 435.6236, Val Acc = 63.52%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 26: Train Loss = 399.4880, Val Acc = 44.23%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 27: Train Loss = 417.1645, Val Acc = 61.61%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 28: Train Loss = 400.7189, Val Acc = 67.64%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 29: Train Loss = 413.4651, Val Acc = 68.13%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 30: Train Loss = 380.4406, Val Acc = 45.12%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 31: Train Loss = 378.1740, Val Acc = 63.62%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 32: Train Loss = 368.1486, Val Acc = 65.48%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 33: Train Loss = 371.9364, Val Acc = 47.18%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 34: Train Loss = 385.7514, Val Acc = 61.86%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 35: Train Loss = 355.4603, Val Acc = 53.38%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 36: Train Loss = 358.7008, Val Acc = 15.95%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 37: Train Loss = 351.1111, Val Acc = 50.47%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 38: Train Loss = 345.3809, Val Acc = 57.68%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 39: Train Loss = 343.9469, Val Acc = 67.13%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 40: Train Loss = 336.5890, Val Acc = 66.78%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 41: Train Loss = 327.9743, Val Acc = 57.58%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 42: Train Loss = 323.3551, Val Acc = 49.12%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 43: Train Loss = 329.0355, Val Acc = 56.89%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 44: Train Loss = 319.8926, Val Acc = 52.43%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 45: Train Loss = 316.1254, Val Acc = 61.07%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 46: Train Loss = 322.1497, Val Acc = 60.00%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 47: Train Loss = 311.2463, Val Acc = 67.90%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 48: Train Loss = 307.3697, Val Acc = 66.83%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 49: Train Loss = 306.3020, Val Acc = 65.50%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 50: Train Loss = 302.6500, Val Acc = 67.95%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 51: Train Loss = 298.0253, Val Acc = 68.31%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 52: Train Loss = 296.7221, Val Acc = 64.25%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 53: Train Loss = 293.1857, Val Acc = 67.01%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 54: Train Loss = 290.6682, Val Acc = 69.81%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 55: Train Loss = 290.4875, Val Acc = 68.08%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 56: Train Loss = 286.4260, Val Acc = 68.94%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 57: Train Loss = 285.4091, Val Acc = 61.99%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 58: Train Loss = 281.3831, Val Acc = 64.59%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 59: Train Loss = 282.1609, Val Acc = 67.87%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 60: Train Loss = 279.1882, Val Acc = 67.90%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 61: Train Loss = 280.1358, Val Acc = 69.71%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 62: Train Loss = 274.1823, Val Acc = 70.09%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 63: Train Loss = 277.4776, Val Acc = 69.71%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 64: Train Loss = 273.6570, Val Acc = 70.52%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 65: Train Loss = 271.9859, Val Acc = 67.39%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 66: Train Loss = 271.2615, Val Acc = 67.08%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 67: Train Loss = 269.7080, Val Acc = 70.60%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 68: Train Loss = 270.8761, Val Acc = 69.48%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 69: Train Loss = 267.5888, Val Acc = 71.72%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 70: Train Loss = 266.9504, Val Acc = 70.62%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 71: Train Loss = 267.2831, Val Acc = 71.59%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 72: Train Loss = 265.8720, Val Acc = 70.55%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 73: Train Loss = 265.1949, Val Acc = 69.02%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 74: Train Loss = 264.8508, Val Acc = 69.81%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 75: Train Loss = 264.3745, Val Acc = 70.60%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 76: Train Loss = 262.9244, Val Acc = 70.83%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 77: Train Loss = 262.3075, Val Acc = 70.98%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 78: Train Loss = 261.3415, Val Acc = 70.70%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 79: Train Loss = 261.4466, Val Acc = 71.03%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 80: Train Loss = 261.2434, Val Acc = 70.73%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 81: Train Loss = 261.1970, Val Acc = 70.62%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 82: Train Loss = 260.1672, Val Acc = 71.11%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 83: Train Loss = 260.2590, Val Acc = 69.66%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 84: Train Loss = 259.2760, Val Acc = 70.75%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 85: Train Loss = 259.9508, Val Acc = 72.31%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 86: Train Loss = 260.4309, Val Acc = 71.31%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 87: Train Loss = 259.0263, Val Acc = 72.13%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 88: Train Loss = 258.7838, Val Acc = 72.00%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 89: Train Loss = 258.6051, Val Acc = 71.29%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 90: Train Loss = 258.5538, Val Acc = 70.83%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 91: Train Loss = 258.3388, Val Acc = 70.96%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 92: Train Loss = 258.2874, Val Acc = 71.90%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 93: Train Loss = 257.8648, Val Acc = 68.33%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 94: Train Loss = 258.0453, Val Acc = 71.64%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 95: Train Loss = 257.6788, Val Acc = 71.80%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 96: Train Loss = 257.4905, Val Acc = 69.71%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 97: Train Loss = 257.7754, Val Acc = 72.08%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 98: Train Loss = 257.5968, Val Acc = 70.04%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 99: Train Loss = 257.2257, Val Acc = 69.63%, Peak Memory = 0.50 GB
+Peak Memory Allocated: 0.50 GB
+Peak Memory Reserved: 0.82 GB
+Epoch 100: Train Loss = 257.4538, Val Acc = 70.19%, Peak Memory = 0.50 GB
